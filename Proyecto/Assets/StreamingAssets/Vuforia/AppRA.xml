@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="portada" size="6.000000 6.463087" />
+    <ImageTarget name="pag33" size="6.000000 5.935185" />
+    <ImageTarget name="pag32" size="6.000000 5.935185" />
+    <ImageTarget name="pag31" size="6.000000 5.935185" />
+    <ImageTarget name="pag30" size="6.000000 5.926040" />
+    <ImageTarget name="pag29" size="6.000000 5.916795" />
+    <ImageTarget name="pag28" size="6.000000 5.953560" />
+    <ImageTarget name="pag27" size="6.000000 5.926040" />
+    <ImageTarget name="pag26" size="6.000000 5.926154" />
+    <ImageTarget name="pag25" size="6.000000 5.926040" />
+    <ImageTarget name="pag24" size="6.000000 5.926040" />
+    <ImageTarget name="pag23" size="6.000000 5.926040" />
+    <ImageTarget name="pag22" size="6.000000 5.926040" />
+    <ImageTarget name="pag21" size="6.000000 5.926154" />
+    <ImageTarget name="pag20" size="6.000000 5.926040" />
+    <ImageTarget name="pag19" size="6.000000 5.926040" />
+    <ImageTarget name="pag18" size="6.000000 5.916795" />
+    <ImageTarget name="pag17" size="6.000000 5.926040" />
+    <ImageTarget name="pag16" size="6.000000 5.926040" />
+    <ImageTarget name="pag15" size="6.000000 5.990131" />
+    <ImageTarget name="pag14" size="6.000000 6.000000" />
+    <ImageTarget name="pag13" size="6.000000 6.000000" />
+    <ImageTarget name="pag12" size="6.000000 6.000000" />
+    <ImageTarget name="pag11" size="6.000000 6.000000" />
+    <ImageTarget name="pag10" size="6.000000 5.990131" />
+    <ImageTarget name="pag9" size="6.000000 5.990416" />
+    <ImageTarget name="pag8" size="6.000000 6.097561" />
+    <ImageTarget name="Libro4" size="6.000000 9.542436" />
+    <ImageTarget name="LibritoDibujo" size="6.000000 8.658228" />
+  </Tracking>
+</QCARConfig>

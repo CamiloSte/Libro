@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6376567872025334633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6376567872025334635}
+  - component: {fileID: 6376567872025334634}
+  m_Layer: 0
+  m_Name: QuizDB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6376567872025334635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6376567872025334633}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6376567872025334634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6376567872025334633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a23bf38d64a2df24d8f53231b832094b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ListQuestion:
+  - {fileID: 7260626352045135699, guid: d782380912c6a404eb501f6a05819ee5, type: 3}
+  - {fileID: 7121268315235248691, guid: b24db3c1660704d46ae9259b862c7bcb, type: 3}
+  - {fileID: 2873505663001708074, guid: d290e41a9ecec3f489cd6a09d437e83a, type: 3}
+  - {fileID: 7256539232160592705, guid: 70306091269bec84fb3f494630f19398, type: 3}
+  - {fileID: 795611659783432554, guid: 32077501b76303e4b94b4031b3d6156c, type: 3}
+  - {fileID: 2484283484364421773, guid: c0d858e4973c0404b9a7965e8a2641ea, type: 3}
+  - {fileID: 6040050435121104627, guid: 62b2112566178684eb9671971e3a3e5e, type: 3}
+  - {fileID: 4764720881840539149, guid: c628d5f4859ee8642b9367a570363dad, type: 3}
+  - {fileID: 2891285839384587005, guid: 5d3def0d1c5226049b58b8f5d6131aca, type: 3}
+  - {fileID: 6730372574644883930, guid: 55f7032917638b44d9e50d256ab538ed, type: 3}
+  - {fileID: 5659696999391005254, guid: ea845f8d9d1a87e4e96ef946a3e02d17, type: 3}
+  - {fileID: 4517452606703752945, guid: e52e17c089b70864790f2ff18b2d1fcb, type: 3}
+  - {fileID: 7087998280864196150, guid: 6824c4715a0e7d34489cc43085275b18, type: 3}
+  - {fileID: 1523201970497496026, guid: 5aaf6c25f0b66b644b921870f39cf734, type: 3}
+  - {fileID: 1877836056218241876, guid: 238f890b670ba1e46a852f7dfb7dd874, type: 3}
+  - {fileID: 1140818182069527422, guid: dd6a9e9b72e35244c8c990299d8c3140, type: 3}
+  - {fileID: 2961783268346267439, guid: e47ea58a083ab084199f91bede1c9fa3, type: 3}
+  - {fileID: 3021154164986729590, guid: 96c6c1fdba4582440a22f9ef41a7dec0, type: 3}
+  - {fileID: 5581695299702974572, guid: a101945aebd40a7428ed36278a4857dc, type: 3}
+  - {fileID: 2160272091998931417, guid: 343c1f614c7096941a211b5a46867c58, type: 3}
+  m_backup: []
+  random1: 
